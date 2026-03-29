@@ -35,5 +35,3 @@ def emotion_detector(text_to_analyse):
         "sadness": sadness,
         "dominant_emotion": dominant_emotion
     }
-
-print(emotion_detector("I am so happy I am doing this."))
